@@ -19,4 +19,4 @@ print("temperatur adalah :", reumur, "celcius")
 # kelvin
 
 kelvin = 273 + celcius
-print("temperatur adalah :", kelvin, "celcius")
+print("temperatur saat ini adalah :", kelvin, "celcius")
